@@ -47,7 +47,7 @@ $ cd ~/tutorial
 (PyconKyushu サイトの画像をダウンロードしてみる)
 $ wget https://kyushu.pycon.jp/2020/images/main_image.png
 
-(ホームディレクトリ配下のmain_image.pngがダウンロードされた)
+(main_image.png がダウンロードされた)
 $ ls -l
 ...
 -rw-r--r--   1 yk  staff  128992  1 13 12:17 main_image.png
@@ -109,6 +109,5 @@ $ cat kyushu.pycon.jp/2020/index.html | grep '<a href="http'
 
 # SEE ALSO
 
--
--
--
+- [scraping_guide](/README.md) - scraping_guide - Python (Scrapy) を使ってスクレイピングとクローラを楽しんでみる
+

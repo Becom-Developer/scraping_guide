@@ -66,3 +66,4 @@ _以前は Perl でスクレイピングを楽しんでいた人が多かった�
 - <https://metacpan.org/pod/Plagger> - Plagger (2006公開)
 - <https://metacpan.org/pod/Web::Scraper> - Web::Scraper (2007公開)
 - <https://www.oreilly.co.jp/books/4873111870/> - Spidering Hacks オライリー社
+- [scraping_guide](/README.md) - scraping_guide - Python (Scrapy) を使ってスクレイピングとクローラを楽しんでみる

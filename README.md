@@ -17,3 +17,5 @@ scraping_guide - Python (Scrapy) を使ってスクレイピングとクロー�
 - [CHAPTER9](/chapter9):
 
 # SEE ALSO
+
+- <https://gihyo.jp/book/2019/978-4-297-10738-3> - Pythonクローリング＆スクレイピング［増補改訂版］
